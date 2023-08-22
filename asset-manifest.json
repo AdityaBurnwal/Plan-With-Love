@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Plan-With-Love/static/css/main.5be79264.css",
-    "main.js": "/Plan-With-Love/static/js/main.7d072f2d.js",
-    "index.html": "/Plan-With-Love/index.html",
-    "main.5be79264.css.map": "/Plan-With-Love/static/css/main.5be79264.css.map",
-    "main.7d072f2d.js.map": "/Plan-With-Love/static/js/main.7d072f2d.js.map"
+    "main.css": "/ekart/static/css/main.e9387f0e.css",
+    "main.js": "/ekart/static/js/main.9569dcb2.js",
+    "index.html": "/ekart/index.html",
+    "main.e9387f0e.css.map": "/ekart/static/css/main.e9387f0e.css.map",
+    "main.9569dcb2.js.map": "/ekart/static/js/main.9569dcb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be79264.css",
-    "static/js/main.7d072f2d.js"
+    "static/css/main.e9387f0e.css",
+    "static/js/main.9569dcb2.js"
   ]
 }
